@@ -6,6 +6,8 @@ The original images can be found [here](https://drive.google.com/drive/folders/1
 
 The masks we outputted can be found [here](https://drive.google.com/drive/folders/1-B7AsFDT5foG9tlrjKLMO_4n4uLiLCn7?usp=sharing).
 
+If you are interested in running this code yourself, you can access the extracted features and accompanying treatment labels and save them to your device locally.
+
 ## References
 
 Cimini B.A. Goodale A. et al. Chandrasekaran, S.N. Three million images and morphological profiles of cells treated with matched chemical and genetic perturbations. Nature Methods, 2024.
