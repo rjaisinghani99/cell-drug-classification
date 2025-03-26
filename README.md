@@ -6,7 +6,7 @@ The original images can be found [here](https://drive.google.com/drive/folders/1
 
 The masks we outputted can be found [here](https://drive.google.com/drive/folders/1-B7AsFDT5foG9tlrjKLMO_4n4uLiLCn7?usp=sharing).
 
-If you are interested in running this code yourself, you can access the extracted features and accompanying treatment labels and save them to your device locally.
+If you are interested in running this code yourself, you can access the [extracted features](https://drive.google.com/file/d/1NAWyeY4_VN49INudfCrh3iWvUtPNB163/view?usp=share_link) and accompanying [treatment labels](https://drive.google.com/file/d/1Vnw7hz7L9Cit8-9T0LcpNUToYx_6ILwg/view?usp=share_link) and save them to your device locally. Once you save the files locally, you can skip the Image Segmentation, Data Augmentation, and Feature Extraction sections in the Jupyter Notebook file.
 
 ## References
 
